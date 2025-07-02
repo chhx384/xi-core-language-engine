@@ -33,3 +33,8 @@ The Ξ-Core Language Engine has potential applications in various fields, includ
 * **Learning Paradigm:** Continuous, Interactive, Unsupervised (primarily)
 
 **Public Release:** July 2, 2025 (Zenodo ID: 15783734)
+---
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
